@@ -5,3 +5,4 @@ A collection of slides I used in my talks at conferences and meetups. **Mostly i
 - Download the package or clone it
 - Go to each talk's directory
 - Open the HTML file
+- Use *spacebar* or *arrows* to go through the slides
